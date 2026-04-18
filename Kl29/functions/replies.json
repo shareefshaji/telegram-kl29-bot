@@ -1,0 +1,10 @@
+{
+  "replies": [
+    { "keywords": ["hi", "hello"], "reply": "👋 Hello!" },
+    { "keywords": ["how are you"], "reply": "🙂 I'm fine!" },
+    { "keywords": ["bye"], "reply": "👋 Bye!" },
+    { "keywords": ["help"], "reply": "📌 Type anything." },
+    { "keywords": ["price"], "reply": "💰 Contact support." },
+    { "keywords": ["location"], "reply": "📍 Saudi Arabia." }
+  ]
+}
