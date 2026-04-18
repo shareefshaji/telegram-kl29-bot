@@ -1,5 +1,0 @@
-[build]
-  functions = "kl29/functions"
-
-[functions]
-  node_bundler = "esbuild"
